@@ -1,5 +1,4 @@
-# This repository covers (in progress) the simulation of autonomous movement TurtleBot and SLAM (LiDAR).
+# Implementation of combined the VFF (Virtual Force Field) and A* algorithms to local and global navigation on synthetic map.
+## To validate code rviz2 and matplotlib are used. (gif file will be displayed below, wait a while)
 
-### To see the results of specific parts, choose the adequate branch:  
--a_star - implementation of point-to-point movement and A* algorithm
-  
+![Prsentation](vff.gif)
