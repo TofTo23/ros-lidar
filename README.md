@@ -2,4 +2,4 @@
 
 ### To see the results of specific parts, choose the adequate branch:  
 -a_star - implementation of point-to-point movement and A* algorithm
-  
+-vff - combination of A* and VFF algorithms  
